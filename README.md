@@ -1,6 +1,7 @@
 # Far Cry 1 Mod | Mostly all fixes for the game
 Far Cry 1 Advanced Version mod | Far Cry 1 Mods | Multiplayer &amp; Singleplayer
 # ►[CHECK DOWNLOAD PAGE](https://github.com/hfcr14/farcry1/releases/tag/farcry1)
+# ►[MOD PAGE](https://farcry1.itch.io/far-cry-advanced-version)
 
 ![FCAV_LOGO3](https://github.com/user-attachments/assets/7d1eec9c-e0a3-45da-851b-886a57550004)
 
